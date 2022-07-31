@@ -1,6 +1,7 @@
 ---
-description: csapp的一些笔记+lab思路分享
+description: 位、整数和浮点数的一些思考
 ---
 
-# CSAPP
+# Bits,Integers and Floating Point
 
+世界你好
